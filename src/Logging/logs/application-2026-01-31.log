@@ -1,0 +1,40 @@
+2026-01-31 10:01:755 FATAL com.example.logging.LogTest - Entering Logtest
+2026-01-31 10:01:756 FATAL com.example.logging.LogTest - validating Object :com.example.logging.WTPart
+2026-01-31 10:01:504 FATAL com.example.logging.LogTest - Entering Logtest
+2026-01-31 10:01:505 FATAL com.example.logging.LogTest - validating Object :class com.example.logging.WTPart
+2026-01-31 10:01:991 FATAL com.example.logging.LogTest - Entering Logtest
+2026-01-31 10:01:992 INFO  com.example.logging.LogTest - validating Object :class com.example.logging.WTPart
+2026-01-31 10:01:965 FATAL com.example.logging.LogTest - Entering Logtest
+2026-01-31 10:01:966 INFO  com.example.logging.LogTest - validating Object :com.example.logging.WTPart
+2026-01-31 10:01:966 INFO  com.example.logging.LogTest - validating Object :com.example.logging.WTDocument
+2026-01-31 10:01:966 INFO  com.example.logging.LogTest - validating Object :com.example.logging.EPMDocument
+2026-01-31 11:01:266 FATAL      com.example.logging.LogTest - Entering Logtest
+2026-01-31 11:01:267 INFO       com.example.logging.LogTest - validating Object :com.example.logging.WTPart
+2026-01-31 11:01:267 INFO       com.example.logging.LogTest - validating Object :com.example.logging.WTDocument
+2026-01-31 11:01:267 INFO       com.example.logging.LogTest - validating Object :com.example.logging.EPMDocument
+2026-01-31 11:01:329 FATAL % - Entering Logtest
+2026-01-31 11:01:330 INFO  % - validating Object :com.example.logging.WTPart
+2026-01-31 11:01:330 INFO  % - validating Object :com.example.logging.WTDocument
+2026-01-31 11:01:330 INFO  % - validating Object :com.example.logging.EPMDocument
+2026-01-31 11:01:758 FATAL com.example.logging.LogTest - Entering Logtest
+2026-01-31 11:01:759 INFO  com.example.logging.LogTest - validating Object :com.example.logging.WTPart
+2026-01-31 11:01:759 INFO  com.example.logging.LogTest - validating Object :com.example.logging.WTDocument
+2026-01-31 11:01:759 INFO  com.example.logging.LogTest - validating Object :com.example.logging.EPMDocument
+2026-01-31 11:1:918 FATAL com.example.logging.LogTest - Entering Logtest
+2026-01-31 11:1:919 INFO  com.example.logging.LogTest - validating Object :com.example.logging.WTPart
+2026-01-31 11:1:920 INFO  com.example.logging.LogTest - validating Object :com.example.logging.WTDocument
+2026-01-31 11:1:920 INFO  com.example.logging.LogTest - validating Object :com.example.logging.EPMDocument
+2026-01-31 11:01:309 FATAL com.example.logging.LogTest - Entering Logtest
+2026-01-31 11:01:318 INFO  com.example.logging.LogTest - validating Object :184928647ts35df
+2026-01-31 11:01:205 FATAL com.example.logging.LogTest - Entering Logtest
+2026-01-31 11:01:207 INFO  com.example.logging.LogTest - Validating Object:com.example.logging.WTPart, validating WTPart: 184928647ts35df, State: INWORK, Iteration :B.2
+2026-01-31 12:01:638 FATAL com.example.logging.LogTest - Entering Logtest
+2026-01-31 12:01:640 INFO  com.example.logging.LogTest - Validating Object:com.example.logging.WTPart, validating WTPart: 184928647ts35df, State: INWORK, Iteration :B.2
+2026-01-31 12:01:640 ERROR com.example.logging.LogTest - ERP Flag Missing for Part :184928647ts35df
+2026-01-31 13:01:294 FATAL com.example.logging.LogTest - Entering Logtest
+2026-01-31 13:01:599 FATAL com.example.logging.LogTest - Entering Logtest
+2026-01-31 13:01:97 FATAL com.example.logging.LogTest - Entering Logtest
+2026-01-31 13:01:98 INFO  com.example.logging.LogTest - Skipping Validator due to rollback
+2026-01-31 17:10:625 FATAL com.example.logging.LogTest - Entering Logtest
+2026-01-31 17:10:626 INFO  com.example.logging.LogTest - Validating Object:com.example.logging.WTPart, validating WTPart: 184928647ts35df, State: INWORK, Iteration :B.2
+2026-01-31 17:10:626 ERROR com.example.logging.LogTest - ERP Flag Missing for Part :184928647ts35df

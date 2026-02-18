@@ -1,0 +1,9 @@
+2026-02-49 17:45:148 FATAL com.example.logging.LogTest - Entering Logtest
+2026-02-49 17:45:151 INFO  com.example.logging.LogTest - Validating Object:com.example.logging.WTPart, validating WTPart: 184928647ts35df, State: INWORK, Iteration :B.2
+2026-02-49 17:45:151 ERROR com.example.logging.LogTest - ERP Flag Missing for Part :184928647ts35df
+2026-02-49 18:06:209 FATAL com.example.logging.LogTest - Entering Logtest
+2026-02-49 18:06:210 INFO  com.example.logging.LogTest - Validating Object:com.example.logging.WTPart, validating WTPart: 184928647ts35df, State: INWORK, Iteration :B.2
+2026-02-49 18:06:211 ERROR com.example.logging.LogTest - ERP Flag Missing for Part :184928647ts35df
+2026-02-49 18:06:813 FATAL com.example.logging.LogTest - Entering Logtest
+2026-02-49 18:06:814 INFO  com.example.logging.LogTest - Validating Object:com.example.logging.WTPart, validating WTPart: 184928647ts35df, State: INWORK, Iteration :B.2
+2026-02-49 18:06:815 ERROR com.example.logging.LogTest - ERP Flag Missing for Part :184928647ts35df
